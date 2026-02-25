@@ -1,0 +1,62 @@
+
+car_roulette.png
+size: 1604, 408
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Lamborghini
+  rotate: false
+  xy: 436, 212
+  size: 435, 194
+  orig: 438, 198
+  offset: 1, 3
+  index: -1
+Mercedes
+  rotate: false
+  xy: 470, 15
+  size: 412, 195
+  orig: 414, 198
+  offset: 1, 2
+  index: -1
+Porsche
+  rotate: false
+  xy: 873, 219
+  size: 402, 187
+  orig: 404, 192
+  offset: 1, 4
+  index: -1
+bmw
+  rotate: false
+  xy: 884, 18
+  size: 347, 199
+  orig: 349, 203
+  offset: 1, 3
+  index: -1
+ferrari
+  rotate: false
+  xy: 2, 2
+  size: 466, 182
+  orig: 470, 187
+  offset: 1, 4
+  index: -1
+mahindra
+  rotate: false
+  xy: 1277, 183
+  size: 325, 223
+  orig: 340, 232
+  offset: 8, 8
+  index: -1
+maserati
+  rotate: false
+  xy: 2, 186
+  size: 432, 220
+  orig: 440, 226
+  offset: 3, 5
+  index: -1
+tata
+  rotate: false
+  xy: 1233, 4
+  size: 331, 177
+  orig: 335, 181
+  offset: 3, 3
+  index: -1

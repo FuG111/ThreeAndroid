@@ -1,0 +1,83 @@
+
+FreeSpin_Fire.png
+size: 239,736
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire 01
+  rotate: false
+  xy: 3, 618
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+fire 07
+  rotate: false
+  xy: 121, 618
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+fire 13
+  rotate: false
+  xy: 3, 500
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+fire 19
+  rotate: false
+  xy: 121, 500
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+fire 25
+  rotate: false
+  xy: 3, 382
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+fire 31
+  rotate: false
+  xy: 121, 382
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+fire 37
+  rotate: false
+  xy: 3, 264
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+fire 43
+  rotate: false
+  xy: 121, 264
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+fire 49
+  rotate: false
+  xy: 3, 146
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+fire 55
+  rotate: false
+  xy: 121, 146
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+free_light
+  rotate: false
+  xy: 3, 3
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+Element_BagGoldCoins.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Element_BagGoldCoins
+  rotate: false
+  xy: 2, 2
+  size: 175, 134
+  orig: 200, 160
+  offset: 6, 15
+  index: -1

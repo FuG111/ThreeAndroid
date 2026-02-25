@@ -1,0 +1,125 @@
+
+ball2.png
+size: 416,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ball
+  rotate: false
+  xy: 125, 3
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+images/ball2
+  rotate: false
+  xy: 247, 3
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+images/ball3
+  rotate: false
+  xy: 3, 6
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+images/ball_2
+  rotate: false
+  xy: 3, 320
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/lable2_1
+  rotate: false
+  xy: 75, 320
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/lable2_10
+  rotate: false
+  xy: 3, 128
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/lable2_11
+  rotate: false
+  xy: 75, 128
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/lable2_12
+  rotate: false
+  xy: 147, 128
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/lable2_2
+  rotate: false
+  xy: 147, 320
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/lable2_3
+  rotate: false
+  xy: 219, 320
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/lable2_4
+  rotate: false
+  xy: 291, 320
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/lable2_5
+  rotate: false
+  xy: 3, 224
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/lable2_6
+  rotate: false
+  xy: 75, 224
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/lable2_7
+  rotate: false
+  xy: 147, 224
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/lable2_8
+  rotate: false
+  xy: 219, 224
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/lable2_9
+  rotate: false
+  xy: 291, 224
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+images/star
+  rotate: false
+  xy: 219, 125
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1

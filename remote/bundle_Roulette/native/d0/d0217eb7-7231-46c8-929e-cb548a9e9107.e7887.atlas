@@ -1,0 +1,27 @@
+
+animation_timing.png
+size: 547, 221
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+aperture
+  rotate: false
+  xy: 436, 110
+  size: 109, 109
+  orig: 111, 111
+  offset: 1, 1
+  index: -1
+under
+  rotate: false
+  xy: 221, 6
+  size: 213, 213
+  orig: 229, 229
+  offset: 6, 6
+  index: -1
+upper
+  rotate: false
+  xy: 2, 2
+  size: 217, 217
+  orig: 229, 229
+  offset: 4, 4
+  index: -1

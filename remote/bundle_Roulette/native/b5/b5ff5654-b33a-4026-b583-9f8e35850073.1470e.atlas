@@ -1,0 +1,111 @@
+
+animation_light.png
+size: 1424, 458
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_00020
+  rotate: false
+  xy: 1268, 4
+  size: 110, 110
+  orig: 250, 250
+  offset: 70, 70
+  index: -1
+1_00021
+  rotate: false
+  xy: 1268, 116
+  size: 154, 154
+  orig: 250, 250
+  offset: 48, 48
+  index: -1
+1_00022
+  rotate: false
+  xy: 1188, 272
+  size: 184, 184
+  orig: 250, 250
+  offset: 33, 33
+  index: -1
+1_00023
+  rotate: false
+  xy: 2, 2
+  size: 210, 210
+  orig: 250, 250
+  offset: 20, 20
+  index: -1
+1_00024
+  rotate: false
+  xy: 634, 2
+  size: 216, 216
+  orig: 250, 250
+  offset: 17, 17
+  index: -1
+1_00025
+  rotate: false
+  xy: 1074, 36
+  size: 192, 192
+  orig: 250, 250
+  offset: 29, 29
+  index: -1
+1_00026
+  rotate: false
+  xy: 214, 8
+  size: 204, 204
+  orig: 250, 250
+  offset: 23, 23
+  index: -1
+1_00027
+  rotate: false
+  xy: 420, 2
+  size: 212, 212
+  orig: 250, 250
+  offset: 19, 19
+  index: -1
+1_00028
+  rotate: false
+  xy: 852, 2
+  size: 220, 220
+  orig: 250, 250
+  offset: 15, 15
+  index: -1
+1_00029
+  rotate: false
+  xy: 960, 230
+  size: 226, 226
+  orig: 250, 250
+  offset: 12, 12
+  index: -1
+1_00030
+  rotate: false
+  xy: 726, 224
+  size: 232, 232
+  orig: 250, 250
+  offset: 9, 9
+  index: -1
+1_00031
+  rotate: false
+  xy: 488, 220
+  size: 236, 236
+  orig: 250, 250
+  offset: 7, 7
+  index: -1
+1_00032
+  rotate: false
+  xy: 246, 216
+  size: 240, 240
+  orig: 250, 250
+  offset: 5, 5
+  index: -1
+1_00033
+  rotate: false
+  xy: 2, 214
+  size: 242, 242
+  orig: 250, 250
+  offset: 4, 4
+  index: -1
+1_00034
+  rotate: false
+  xy: 214, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

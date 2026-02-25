@@ -1,0 +1,111 @@
+
+broken.png
+size: 1164,1164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+broken_1
+  rotate: false
+  xy: 3, 583
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_11
+  rotate: false
+  xy: 583, 873
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_13
+  rotate: false
+  xy: 3, 3
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_15
+  rotate: false
+  xy: 293, 293
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_17
+  rotate: false
+  xy: 583, 583
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_19
+  rotate: false
+  xy: 873, 873
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_21
+  rotate: false
+  xy: 293, 3
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_23
+  rotate: false
+  xy: 583, 293
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_25
+  rotate: false
+  xy: 873, 583
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_27
+  rotate: false
+  xy: 583, 3
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_29
+  rotate: false
+  xy: 873, 293
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_3
+  rotate: false
+  xy: 293, 873
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_5
+  rotate: false
+  xy: 3, 293
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_7
+  rotate: false
+  xy: 293, 583
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+broken_9
+  rotate: false
+  xy: 3, 873
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1

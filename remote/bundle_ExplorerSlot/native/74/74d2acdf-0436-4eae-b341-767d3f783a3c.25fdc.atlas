@@ -1,0 +1,13 @@
+
+Element_SkeletonCoin.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Element_SkeletonCoin
+  rotate: false
+  xy: 2, 2
+  size: 130, 128
+  orig: 200, 160
+  offset: 40, 22
+  index: -1

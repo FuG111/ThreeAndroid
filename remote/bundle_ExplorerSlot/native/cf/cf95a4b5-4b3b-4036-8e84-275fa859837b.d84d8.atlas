@@ -1,0 +1,139 @@
+
+Element_Crow.png
+size: 1188,214
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Crow_Body
+  rotate: false
+  xy: 990, 94
+  size: 146, 118
+  orig: 150, 119
+  offset: 0, 1
+  index: -1
+Crow_Mouth1
+  rotate: false
+  xy: 879, 6
+  size: 47, 68
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+Crow_Mouth2
+  rotate: false
+  xy: 479, 6
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+Crow_Tongue
+  rotate: false
+  xy: 138, 22
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Crow_Wing_L
+  rotate: false
+  xy: 138, 50
+  size: 79, 162
+  orig: 85, 175
+  offset: 0, 13
+  index: -1
+Crow_Wing_L2
+  rotate: false
+  xy: 621, 61
+  size: 71, 151
+  orig: 72, 158
+  offset: 0, 7
+  index: -1
+Crow_Wing_R
+  rotate: false
+  xy: 219, 55
+  size: 119, 157
+  orig: 119, 157
+  offset: 0, 0
+  index: -1
+Crow_Wing_R0
+  rotate: false
+  xy: 990, 6
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+Crow_Wing_R2
+  rotate: false
+  xy: 879, 76
+  size: 109, 136
+  orig: 112, 142
+  offset: 0, 5
+  index: -1
+Crpw_Bg
+  rotate: false
+  xy: 694, 65
+  size: 183, 147
+  orig: 183, 147
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 340, 57
+  size: 193, 155
+  orig: 193, 155
+  offset: 0, 0
+  index: -1
+Left_Wing
+  rotate: false
+  xy: 1138, 119
+  size: 48, 93
+  orig: 51, 99
+  offset: 2, 5
+  index: -1
+Mouth
+  rotate: false
+  xy: 535, 60
+  size: 84, 152
+  orig: 96, 163
+  offset: 2, 4
+  index: -1
+crow_head
+  rotate: false
+  xy: 1042, 13
+  size: 100, 79
+  orig: 106, 89
+  offset: 6, 0
+  index: -1
+lighting_1
+  rotate: false
+  xy: 535, 4
+  size: 128, 54
+  orig: 128, 64
+  offset: 0, 6
+  index: -1
+lighting_2
+  rotate: false
+  xy: 219, 2
+  size: 128, 51
+  orig: 128, 64
+  offset: 0, 6
+  index: -1
+lighting_3
+  rotate: false
+  xy: 349, 4
+  size: 128, 51
+  orig: 128, 64
+  offset: 0, 6
+  index: -1
+lighting_4
+  rotate: false
+  xy: 694, 4
+  size: 128, 59
+  orig: 128, 64
+  offset: 0, 3
+  index: -1
+line
+  rotate: false
+  xy: 2, 9
+  size: 134, 203
+  orig: 138, 207
+  offset: 0, 4
+  index: -1

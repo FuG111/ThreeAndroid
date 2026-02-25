@@ -1,0 +1,62 @@
+
+topPrize.png
+size: 1128,1128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trumpet
+  rotate: false
+  xy: 938, 989
+  size: 167, 136
+  orig: 167, 136
+  offset: 0, 0
+  index: -1
+Turntable
+  rotate: false
+  xy: 3, 279
+  size: 670, 670
+  orig: 670, 670
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 701, 891
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: false
+  xy: 676, 357
+  size: 431, 255
+  orig: 431, 255
+  offset: 0, 0
+  index: -1
+jackpotNumber_bg
+  rotate: false
+  xy: 3, 121
+  size: 677, 155
+  orig: 677, 155
+  offset: 0, 0
+  index: -1
+jackpotNumber_bg_shine
+  rotate: false
+  xy: 3, 952
+  size: 695, 173
+  orig: 695, 173
+  offset: 0, 0
+  index: -1
+jackpot_shine
+  rotate: false
+  xy: 676, 615
+  size: 449, 273
+  orig: 449, 273
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 938, 932
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1

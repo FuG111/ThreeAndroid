@@ -1,0 +1,286 @@
+
+Mimi_Fire.png
+size: 771,771
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_01
+  rotate: false
+  xy: 377, 10
+  size: 98, 32
+  orig: 128, 64
+  offset: 12, 0
+  index: -1
+fire_02
+  rotate: false
+  xy: 246, 59
+  size: 106, 34
+  orig: 128, 64
+  offset: 6, 0
+  index: -1
+fire_03
+  rotate: false
+  xy: 132, 63
+  size: 112, 40
+  orig: 128, 64
+  offset: 10, 0
+  index: -1
+fire_04
+  rotate: false
+  xy: 515, 288
+  size: 119, 44
+  orig: 128, 64
+  offset: 5, 0
+  index: -1
+fire_05
+  rotate: false
+  xy: 370, 284
+  size: 124, 44
+  orig: 128, 64
+  offset: 4, 0
+  index: -1
+fire_06
+  rotate: false
+  xy: 2, 28
+  size: 125, 44
+  orig: 128, 64
+  offset: 3, 0
+  index: -1
+fire_07
+  rotate: false
+  xy: 185, 155
+  size: 123, 44
+  orig: 128, 64
+  offset: 4, 0
+  index: -1
+fire_08
+  rotate: false
+  xy: 149, 105
+  size: 115, 48
+  orig: 128, 64
+  offset: 8, 0
+  index: -1
+fire_09
+  rotate: false
+  xy: 129, 11
+  size: 107, 50
+  orig: 128, 64
+  offset: 16, 0
+  index: -1
+fire_10
+  rotate: false
+  xy: 238, 7
+  size: 101, 50
+  orig: 128, 64
+  offset: 20, 0
+  index: -1
+fire_11
+  rotate: false
+  xy: 542, 238
+  size: 92, 48
+  orig: 128, 64
+  offset: 26, 0
+  index: -1
+fire_12
+  rotate: false
+  xy: 377, 100
+  size: 84, 57
+  orig: 128, 64
+  offset: 32, 0
+  index: -1
+fire_13
+  rotate: false
+  xy: 377, 221
+  size: 81, 61
+  orig: 128, 64
+  offset: 31, 0
+  index: -1
+fire_14
+  rotate: false
+  xy: 542, 183
+  size: 81, 53
+  orig: 128, 64
+  offset: 32, 0
+  index: -1
+fire_15
+  rotate: false
+  xy: 460, 228
+  size: 80, 54
+  orig: 128, 64
+  offset: 33, 0
+  index: -1
+fire_16
+  rotate: false
+  xy: 377, 159
+  size: 80, 60
+  orig: 128, 64
+  offset: 32, 0
+  index: -1
+green_1
+  rotate: false
+  xy: 2, 644
+  size: 415, 125
+  orig: 427, 136
+  offset: 6, 5
+  index: -1
+green_2
+  rotate: false
+  xy: 2, 517
+  size: 408, 125
+  orig: 427, 136
+  offset: 6, 5
+  index: -1
+green_3
+  rotate: false
+  xy: 2, 390
+  size: 390, 125
+  orig: 427, 136
+  offset: 6, 5
+  index: -1
+green_4
+  rotate: false
+  xy: 419, 644
+  size: 333, 125
+  orig: 427, 136
+  offset: 6, 5
+  index: -1
+green_5
+  rotate: false
+  xy: 412, 517
+  size: 292, 125
+  orig: 427, 136
+  offset: 6, 5
+  index: -1
+green_6
+  rotate: false
+  xy: 394, 390
+  size: 265, 125
+  orig: 427, 136
+  offset: 6, 5
+  index: -1
+green_7
+  rotate: false
+  xy: 2, 190
+  size: 181, 125
+  orig: 427, 136
+  offset: 6, 5
+  index: -1
+green_light
+  rotate: false
+  xy: 2, 317
+  size: 366, 71
+  orig: 367, 71
+  offset: 1, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 661, 261
+  size: 32, 254
+  orig: 40, 256
+  offset: 7, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 741, 390
+  size: 28, 252
+  orig: 40, 256
+  offset: 10, 0
+  index: -1
+light_3
+  rotate: false
+  xy: 728, 135
+  size: 30, 253
+  orig: 40, 256
+  offset: 3, 0
+  index: -1
+light_4
+  rotate: false
+  xy: 661, 13
+  size: 29, 246
+  orig: 40, 256
+  offset: 6, 7
+  index: -1
+light_5
+  rotate: false
+  xy: 706, 397
+  size: 33, 245
+  orig: 40, 256
+  offset: 7, 8
+  index: -1
+light_6
+  rotate: false
+  xy: 695, 150
+  size: 31, 245
+  orig: 40, 256
+  offset: 4, 7
+  index: -1
+light_7
+  rotate: false
+  xy: 636, 82
+  size: 23, 250
+  orig: 40, 256
+  offset: 8, 5
+  index: -1
+light_8
+  rotate: false
+  xy: 354, 27
+  size: 21, 255
+  orig: 40, 256
+  offset: 15, 0
+  index: -1
+mimi_0
+  rotate: false
+  xy: 2, 134
+  size: 145, 54
+  orig: 147, 56
+  offset: 1, 1
+  index: -1
+mimi_1
+  rotate: false
+  xy: 515, 334
+  size: 141, 54
+  orig: 147, 56
+  offset: 1, 1
+  index: -1
+mimi_2
+  rotate: false
+  xy: 185, 201
+  size: 127, 54
+  orig: 147, 56
+  offset: 1, 1
+  index: -1
+mimi_3
+  rotate: false
+  xy: 377, 44
+  size: 88, 54
+  orig: 147, 56
+  offset: 1, 1
+  index: -1
+minor_1
+  rotate: false
+  xy: 370, 330
+  size: 143, 58
+  orig: 145, 60
+  offset: 1, 1
+  index: -1
+minor_2
+  rotate: false
+  xy: 185, 257
+  size: 140, 58
+  orig: 145, 60
+  offset: 4, 1
+  index: -1
+minor_3
+  rotate: false
+  xy: 2, 74
+  size: 128, 58
+  orig: 145, 60
+  offset: 16, 1
+  index: -1
+minor_4
+  rotate: false
+  xy: 266, 95
+  size: 86, 58
+  orig: 145, 60
+  offset: 58, 1
+  index: -1

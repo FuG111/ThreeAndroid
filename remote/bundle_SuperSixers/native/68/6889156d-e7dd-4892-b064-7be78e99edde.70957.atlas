@@ -1,0 +1,76 @@
+
+super_coin.png
+size: 788,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_1
+  rotate: false
+  xy: 3, 3
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+coin_2
+  rotate: false
+  xy: 680, 690
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+coin_3
+  rotate: false
+  xy: 100, 3
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+coin_4
+  rotate: false
+  xy: 680, 593
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+coin_5
+  rotate: false
+  xy: 197, 3
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+coin_6
+  rotate: false
+  xy: 680, 496
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+coin_7
+  rotate: false
+  xy: 294, 3
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+coin_8
+  rotate: false
+  xy: 680, 399
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+coin_9
+  rotate: false
+  xy: 391, 3
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 3, 100
+  size: 674, 684
+  orig: 674, 684
+  offset: 0, 0
+  index: -1

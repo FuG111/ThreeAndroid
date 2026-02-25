@@ -1,0 +1,181 @@
+
+animation_btn_light.png
+size: 1577, 177
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+light_00000
+  rotate: true
+  xy: 2, 2
+  size: 173, 61
+  orig: 173, 61
+  offset: 0, 0
+  index: -1
+light_00001
+  rotate: true
+  xy: 380, 3
+  size: 172, 61
+  orig: 173, 61
+  offset: 1, 0
+  index: -1
+light_00002
+  rotate: true
+  xy: 569, 4
+  size: 171, 61
+  orig: 173, 61
+  offset: 1, 0
+  index: -1
+light_00003
+  rotate: true
+  xy: 632, 4
+  size: 171, 61
+  orig: 173, 61
+  offset: 1, 0
+  index: -1
+light_00004
+  rotate: true
+  xy: 821, 5
+  size: 170, 61
+  orig: 173, 61
+  offset: 1, 0
+  index: -1
+light_00005
+  rotate: true
+  xy: 947, 6
+  size: 169, 61
+  orig: 173, 61
+  offset: 2, 0
+  index: -1
+light_00006
+  rotate: true
+  xy: 1073, 8
+  size: 167, 61
+  orig: 173, 61
+  offset: 3, 0
+  index: -1
+light_00007
+  rotate: true
+  xy: 1199, 12
+  size: 163, 61
+  orig: 173, 61
+  offset: 5, 0
+  index: -1
+light_00008
+  rotate: true
+  xy: 1388, 15
+  size: 160, 61
+  orig: 173, 61
+  offset: 6, 0
+  index: -1
+light_00009
+  rotate: true
+  xy: 1451, 15
+  size: 160, 61
+  orig: 173, 61
+  offset: 6, 0
+  index: -1
+light_00010
+  rotate: true
+  xy: 443, 3
+  size: 172, 61
+  orig: 173, 61
+  offset: 1, 0
+  index: -1
+light_00011
+  rotate: true
+  xy: 65, 2
+  size: 173, 61
+  orig: 173, 61
+  offset: 0, 0
+  index: -1
+light_00012
+  rotate: true
+  xy: 128, 2
+  size: 173, 61
+  orig: 173, 61
+  offset: 0, 0
+  index: -1
+light_00013
+  rotate: true
+  xy: 191, 2
+  size: 173, 61
+  orig: 173, 61
+  offset: 0, 0
+  index: -1
+light_00014
+  rotate: true
+  xy: 695, 4
+  size: 171, 61
+  orig: 173, 61
+  offset: 1, 0
+  index: -1
+light_00015
+  rotate: true
+  xy: 758, 4
+  size: 171, 61
+  orig: 173, 61
+  offset: 1, 0
+  index: -1
+light_00016
+  rotate: true
+  xy: 884, 5
+  size: 170, 61
+  orig: 173, 61
+  offset: 1, 0
+  index: -1
+light_00017
+  rotate: true
+  xy: 1010, 6
+  size: 169, 61
+  orig: 173, 61
+  offset: 2, 0
+  index: -1
+light_00018
+  rotate: true
+  xy: 1136, 8
+  size: 167, 61
+  orig: 173, 61
+  offset: 3, 0
+  index: -1
+light_00019
+  rotate: true
+  xy: 1262, 12
+  size: 163, 61
+  orig: 173, 61
+  offset: 5, 0
+  index: -1
+light_00020
+  rotate: true
+  xy: 1514, 15
+  size: 160, 61
+  orig: 173, 61
+  offset: 6, 0
+  index: -1
+light_00021
+  rotate: true
+  xy: 1325, 14
+  size: 161, 61
+  orig: 173, 61
+  offset: 6, 0
+  index: -1
+light_00022
+  rotate: true
+  xy: 506, 3
+  size: 172, 61
+  orig: 173, 61
+  offset: 1, 0
+  index: -1
+light_00023
+  rotate: true
+  xy: 254, 2
+  size: 173, 61
+  orig: 173, 61
+  offset: 0, 0
+  index: -1
+light_00024
+  rotate: true
+  xy: 317, 2
+  size: 173, 61
+  orig: 173, 61
+  offset: 0, 0
+  index: -1

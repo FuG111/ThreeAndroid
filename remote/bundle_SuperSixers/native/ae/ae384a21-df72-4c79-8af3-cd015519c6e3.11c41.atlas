@@ -1,0 +1,265 @@
+
+buttonEffect.png
+size: 1284,1284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_bg
+  rotate: false
+  xy: 89, 1185
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_1
+  rotate: false
+  xy: 387, 1185
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_10
+  rotate: false
+  xy: 301, 993
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_11
+  rotate: false
+  xy: 599, 993
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_12
+  rotate: false
+  xy: 897, 993
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_13
+  rotate: false
+  xy: 3, 897
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_14
+  rotate: false
+  xy: 301, 897
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_15
+  rotate: false
+  xy: 599, 897
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_16
+  rotate: false
+  xy: 897, 897
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_17
+  rotate: false
+  xy: 3, 801
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_18
+  rotate: false
+  xy: 301, 801
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_19
+  rotate: false
+  xy: 599, 801
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_2
+  rotate: false
+  xy: 685, 1185
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_20
+  rotate: false
+  xy: 897, 801
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_21
+  rotate: false
+  xy: 3, 705
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_22
+  rotate: false
+  xy: 301, 705
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_23
+  rotate: false
+  xy: 599, 705
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_24
+  rotate: false
+  xy: 897, 705
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_25
+  rotate: false
+  xy: 3, 609
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_26
+  rotate: false
+  xy: 301, 609
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_27
+  rotate: false
+  xy: 599, 609
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_28
+  rotate: false
+  xy: 897, 609
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_29
+  rotate: false
+  xy: 3, 513
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_3
+  rotate: false
+  xy: 983, 1185
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_30
+  rotate: false
+  xy: 301, 513
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_31
+  rotate: false
+  xy: 599, 513
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_32
+  rotate: false
+  xy: 897, 513
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_33
+  rotate: false
+  xy: 3, 417
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_34
+  rotate: false
+  xy: 301, 417
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_35
+  rotate: false
+  xy: 599, 417
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_36
+  rotate: false
+  xy: 897, 417
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_4
+  rotate: false
+  xy: 3, 1089
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_6
+  rotate: false
+  xy: 301, 1089
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_7
+  rotate: false
+  xy: 599, 1089
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_8
+  rotate: false
+  xy: 897, 1089
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+btn_effectLight_9
+  rotate: false
+  xy: 3, 993
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 3, 1194
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1

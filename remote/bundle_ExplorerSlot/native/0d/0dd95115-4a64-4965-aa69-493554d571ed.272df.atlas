@@ -1,0 +1,13 @@
+
+Element_TreasureMap.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TreasureMap
+  rotate: false
+  xy: 2, 2
+  size: 179, 154
+  orig: 200, 160
+  offset: 9, 6
+  index: -1

@@ -1,0 +1,139 @@
+
+Element_TreasureChest.png
+size: 394,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg
+  rotate: false
+  xy: 2, 363
+  size: 191, 153
+  orig: 191, 153
+  offset: 0, 0
+  index: -1
+Box
+  rotate: false
+  xy: 2, 94
+  size: 164, 112
+  orig: 164, 112
+  offset: 0, 0
+  index: -1
+Box_1
+  rotate: false
+  xy: 195, 260
+  size: 172, 95
+  orig: 172, 95
+  offset: 0, 0
+  index: -1
+Box_2
+  rotate: false
+  xy: 2, 16
+  size: 162, 76
+  orig: 162, 76
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 2, 208
+  size: 191, 153
+  orig: 191, 153
+  offset: 0, 0
+  index: -1
+Jackpot
+  rotate: false
+  xy: 168, 102
+  size: 176, 48
+  orig: 176, 49
+  offset: 0, 1
+  index: -1
+Jackpot2
+  rotate: false
+  xy: 195, 202
+  size: 182, 56
+  orig: 184, 56
+  offset: 1, 0
+  index: -1
+Light
+  rotate: false
+  xy: 195, 357
+  size: 166, 159
+  orig: 172, 160
+  offset: 3, 0
+  index: -1
+Mask
+  rotate: false
+  xy: 168, 152
+  size: 183, 48
+  orig: 183, 51
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 168, 2
+  size: 107, 98
+  orig: 121, 105
+  offset: 6, 7
+  index: -1
+coin_1
+  rotate: false
+  xy: 277, 59
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+coin_2
+  rotate: false
+  xy: 353, 159
+  size: 37, 41
+  orig: 43, 43
+  offset: 3, 1
+  index: -1
+coin_3
+  rotate: false
+  xy: 363, 475
+  size: 29, 41
+  orig: 43, 43
+  offset: 7, 1
+  index: -1
+coin_4
+  rotate: false
+  xy: 363, 389
+  size: 18, 41
+  orig: 43, 43
+  offset: 13, 1
+  index: -1
+coin_5
+  rotate: false
+  xy: 346, 109
+  size: 18, 41
+  orig: 43, 43
+  offset: 12, 1
+  index: -1
+coin_6
+  rotate: false
+  xy: 363, 432
+  size: 29, 41
+  orig: 43, 43
+  offset: 7, 1
+  index: -1
+coin_7
+  rotate: false
+  xy: 320, 60
+  size: 37, 40
+  orig: 43, 43
+  offset: 3, 2
+  index: -1
+coin_8
+  rotate: false
+  xy: 277, 17
+  size: 41, 40
+  orig: 43, 43
+  offset: 1, 2
+  index: -1
+coin_9
+  rotate: false
+  xy: 320, 18
+  size: 41, 40
+  orig: 43, 43
+  offset: 1, 2
+  index: -1

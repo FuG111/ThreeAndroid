@@ -1,0 +1,27 @@
+
+coupons_select.png
+size: 1820,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 423
+  size: 1814, 76
+  orig: 1913, 86
+  offset: 60, 5
+  index: -1
+yueka_00000
+  rotate: true
+  xy: 2, 2
+  size: 419, 555
+  orig: 480, 590
+  offset: 32, 22
+  index: -1
+yueka_00001
+  rotate: true
+  xy: 559, 57
+  size: 364, 500
+  orig: 480, 590
+  offset: 60, 49
+  index: -1

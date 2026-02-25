@@ -1,0 +1,48 @@
+
+Element_Gemstone.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg
+  rotate: false
+  xy: 516, 11
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 701, 2
+  size: 191, 153
+  orig: 191, 153
+  offset: 0, 0
+  index: -1
+Gem
+  rotate: false
+  xy: 216, 35
+  size: 125, 120
+  orig: 138, 145
+  offset: 6, 21
+  index: -1
+Mask
+  rotate: false
+  xy: 31, 97
+  size: 183, 58
+  orig: 191, 66
+  offset: 3, 4
+  index: -1
+Smoke
+  rotate: false
+  xy: 343, 17
+  size: 171, 138
+  orig: 177, 145
+  offset: 3, 3
+  index: -1
+star
+  rotate: false
+  xy: 2, 126
+  size: 27, 29
+  orig: 31, 31
+  offset: 2, 1
+  index: -1

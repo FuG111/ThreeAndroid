@@ -1,0 +1,41 @@
+
+animation_win.png
+size: 674, 330
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+c_00004
+  rotate: true
+  xy: 2, 2
+  size: 326, 327
+  orig: 566, 413
+  offset: 120, 43
+  index: -1
+light_00006
+  rotate: true
+  xy: 331, 4
+  size: 152, 154
+  orig: 188, 188
+  offset: 16, 19
+  index: -1
+light_00007
+  rotate: false
+  xy: 514, 169
+  size: 157, 159
+  orig: 188, 188
+  offset: 13, 17
+  index: -1
+light_00008
+  rotate: true
+  xy: 514, 13
+  size: 154, 158
+  orig: 188, 188
+  offset: 13, 17
+  index: -1
+star
+  rotate: true
+  xy: 331, 158
+  size: 170, 181
+  orig: 185, 192
+  offset: 8, 6
+  index: -1

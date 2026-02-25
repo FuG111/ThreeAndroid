@@ -1,0 +1,125 @@
+
+slot_light_200.png
+size: 1852,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grid
+  rotate: false
+  xy: 1742, 12
+  size: 105, 88
+  orig: 105, 88
+  offset: 0, 0
+  index: -1
+tx_00002
+  rotate: false
+  xy: 2, 2
+  size: 115, 98
+  orig: 125, 108
+  offset: 5, 5
+  index: -1
+tx_00004
+  rotate: false
+  xy: 119, 2
+  size: 115, 98
+  orig: 125, 108
+  offset: 5, 5
+  index: -1
+tx_00006
+  rotate: false
+  xy: 236, 2
+  size: 115, 98
+  orig: 125, 108
+  offset: 5, 5
+  index: -1
+tx_00008
+  rotate: false
+  xy: 353, 2
+  size: 115, 98
+  orig: 125, 108
+  offset: 5, 5
+  index: -1
+tx_00010
+  rotate: false
+  xy: 470, 2
+  size: 115, 98
+  orig: 125, 108
+  offset: 5, 5
+  index: -1
+tx_00012
+  rotate: false
+  xy: 587, 2
+  size: 115, 98
+  orig: 125, 108
+  offset: 5, 5
+  index: -1
+tx_00014
+  rotate: false
+  xy: 1632, 2
+  size: 108, 98
+  orig: 125, 108
+  offset: 9, 5
+  index: -1
+tx_00016
+  rotate: false
+  xy: 704, 2
+  size: 115, 98
+  orig: 125, 108
+  offset: 5, 5
+  index: -1
+tx_00018
+  rotate: false
+  xy: 821, 2
+  size: 115, 98
+  orig: 125, 108
+  offset: 5, 5
+  index: -1
+tx_00020
+  rotate: false
+  xy: 938, 2
+  size: 115, 98
+  orig: 125, 108
+  offset: 5, 5
+  index: -1
+tx_00022
+  rotate: false
+  xy: 1405, 5
+  size: 115, 95
+  orig: 125, 108
+  offset: 5, 6
+  index: -1
+tx_00024
+  rotate: false
+  xy: 1055, 2
+  size: 115, 98
+  orig: 125, 108
+  offset: 5, 5
+  index: -1
+tx_00026
+  rotate: false
+  xy: 1172, 2
+  size: 115, 98
+  orig: 125, 108
+  offset: 5, 5
+  index: -1
+tx_00028
+  rotate: false
+  xy: 1289, 2
+  size: 114, 98
+  orig: 125, 108
+  offset: 6, 5
+  index: -1
+tx_00030
+  rotate: false
+  xy: 1522, 2
+  size: 108, 98
+  orig: 125, 108
+  offset: 9, 5
+  index: -1
+tx_00000
+  rotate: false
+  xy: 1522, 2
+  size: 108, 98
+  orig: 125, 108
+  offset: 9, 5
+  index: -1

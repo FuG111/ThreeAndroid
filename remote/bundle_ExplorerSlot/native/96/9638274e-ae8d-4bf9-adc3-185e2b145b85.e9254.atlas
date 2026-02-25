@@ -1,0 +1,209 @@
+
+Little_Spin_Win.png
+size: 210,991
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jackpot
+  rotate: false
+  xy: 3, 118
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+big_win
+  rotate: false
+  xy: 3, 400
+  size: 149, 109
+  orig: 149, 109
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 3, 257
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+coin_1
+  rotate: false
+  xy: 158, 522
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+coin_2
+  rotate: false
+  xy: 158, 476
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+coin_3
+  rotate: false
+  xy: 155, 430
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+coin_4
+  rotate: false
+  xy: 155, 384
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+coin_5
+  rotate: false
+  xy: 146, 338
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+coin_6
+  rotate: false
+  xy: 146, 292
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+coin_7
+  rotate: false
+  xy: 146, 246
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+coin_8
+  rotate: false
+  xy: 135, 200
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+coin_9
+  rotate: false
+  xy: 126, 154
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+free_spin
+  rotate: false
+  xy: 3, 221
+  size: 129, 33
+  orig: 129, 33
+  offset: 0, 0
+  index: -1
+horn
+  rotate: false
+  xy: 118, 47
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 3, 824
+  size: 155, 164
+  orig: 155, 164
+  offset: 0, 0
+  index: -1
+mega_win
+  rotate: false
+  xy: 3, 718
+  size: 155, 103
+  orig: 155, 103
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 181, 150
+  size: 23, 93
+  orig: 23, 93
+  offset: 0, 0
+  index: -1
+ribbon_1
+  rotate: false
+  xy: 161, 944
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ribbon_2
+  rotate: false
+  xy: 161, 897
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ribbon_3
+  rotate: false
+  xy: 161, 850
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ribbon_4
+  rotate: false
+  xy: 161, 803
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ribbon_5
+  rotate: false
+  xy: 161, 756
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ribbon_6
+  rotate: false
+  xy: 161, 709
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ribbon_7
+  rotate: false
+  xy: 158, 662
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ribbon_8
+  rotate: false
+  xy: 158, 615
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ribbon_9
+  rotate: false
+  xy: 158, 568
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+spin
+  rotate: false
+  xy: 3, 3
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+super_win
+  rotate: false
+  xy: 3, 615
+  size: 152, 100
+  orig: 152, 100
+  offset: 0, 0
+  index: -1
+total_win
+  rotate: false
+  xy: 3, 512
+  size: 152, 100
+  orig: 152, 100
+  offset: 0, 0
+  index: -1

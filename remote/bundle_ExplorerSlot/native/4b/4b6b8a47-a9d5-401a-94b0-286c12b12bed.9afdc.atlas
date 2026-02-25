@@ -1,0 +1,41 @@
+
+fast_yellow.png
+size: 215,1001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+side_light
+  rotate: false
+  xy: 3, 3
+  size: 34, 512
+  orig: 34, 512
+  offset: 0, 0
+  index: -1
+side_light2
+  rotate: false
+  xy: 40, 54
+  size: 58, 461
+  orig: 58, 461
+  offset: 0, 0
+  index: -1
+side_light3
+  rotate: false
+  xy: 179, 325
+  size: 22, 190
+  orig: 22, 190
+  offset: 0, 0
+  index: -1
+side_light4
+  rotate: false
+  xy: 101, 105
+  size: 75, 410
+  orig: 75, 410
+  offset: 0, 0
+  index: -1
+square
+  rotate: false
+  xy: 3, 518
+  size: 209, 480
+  orig: 209, 480
+  offset: 0, 0
+  index: -1

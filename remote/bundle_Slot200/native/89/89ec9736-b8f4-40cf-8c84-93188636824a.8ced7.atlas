@@ -1,0 +1,90 @@
+
+slot_scattr_track_200.png
+size: 1392,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biankuang
+  rotate: true
+  xy: 941, 113
+  size: 105, 265
+  orig: 105, 265
+  offset: 0, 0
+  index: -1
+flash_00000
+  rotate: true
+  xy: 1208, 111
+  size: 107, 175
+  orig: 113, 285
+  offset: 0, 110
+  index: -1
+flash_00002
+  rotate: true
+  xy: 289, 7
+  size: 107, 174
+  orig: 113, 285
+  offset: 0, 86
+  index: -1
+flash_00004
+  rotate: true
+  xy: 465, 5
+  size: 107, 172
+  orig: 113, 285
+  offset: 0, 58
+  index: -1
+flash_00006
+  rotate: true
+  xy: 576, 114
+  size: 104, 180
+  orig: 113, 285
+  offset: 0, 27
+  index: -1
+flash_00008
+  rotate: true
+  xy: 758, 114
+  size: 104, 181
+  orig: 113, 285
+  offset: 0, 0
+  index: -1
+flash_00010
+  rotate: true
+  xy: 2, 10
+  size: 106, 285
+  orig: 113, 285
+  offset: 0, 0
+  index: -1
+flash_00012
+  rotate: true
+  xy: 2, 118
+  size: 100, 285
+  orig: 113, 285
+  offset: 2, 0
+  index: -1
+flash_00014
+  rotate: true
+  xy: 289, 116
+  size: 102, 285
+  orig: 113, 285
+  offset: 0, 0
+  index: -1
+flash_00016
+  rotate: true
+  xy: 639, 5
+  size: 107, 285
+  orig: 113, 285
+  offset: 0, 0
+  index: -1
+flash_00018
+  rotate: true
+  xy: 1103, 2
+  size: 107, 285
+  orig: 113, 285
+  offset: 0, 0
+  index: -1
+flash_00020
+  rotate: true
+  xy: 926, 4
+  size: 107, 175
+  orig: 113, 285
+  offset: 0, 107
+  index: -1

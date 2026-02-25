@@ -1,0 +1,62 @@
+
+slot_item_200_6.png
+size: 684,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 419, 148
+  size: 243, 74
+  orig: 243, 74
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 184, 83
+  size: 139, 233
+  orig: 258, 233
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 312, 4
+  size: 155, 60
+  orig: 155, 60
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 419, 66
+  size: 223, 80
+  orig: 223, 80
+  offset: 0, 0
+  index: -1
+body_5
+  rotate: false
+  xy: 469, 7
+  size: 211, 57
+  orig: 211, 57
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 2, 46
+  size: 176, 180
+  orig: 176, 180
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: true
+  xy: 644, 109
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 184, 2
+  size: 126, 79
+  orig: 134, 84
+  offset: 8, 5
+  index: -1

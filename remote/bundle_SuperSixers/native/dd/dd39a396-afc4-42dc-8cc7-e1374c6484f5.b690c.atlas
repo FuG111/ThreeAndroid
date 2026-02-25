@@ -1,0 +1,160 @@
+
+ball4.png
+size: 580,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Circle1
+  rotate: false
+  xy: 252, 456
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+images/Circle2
+  rotate: false
+  xy: 375, 456
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+images/Circle3
+  rotate: false
+  xy: 129, 333
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+images/Circle4
+  rotate: false
+  xy: 129, 456
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+images/ball
+  rotate: false
+  xy: 3, 333
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+images/ball2
+  rotate: false
+  xy: 252, 334
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+images/ball3
+  rotate: false
+  xy: 374, 334
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+images/ball4Light
+  rotate: false
+  xy: 3, 455
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+images/ballLight
+  rotate: false
+  xy: 367, 135
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+images/ball_4
+  rotate: false
+  xy: 252, 224
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+images/lable4_1
+  rotate: false
+  xy: 343, 224
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+images/lable4_10
+  rotate: false
+  xy: 94, 3
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+images/lable4_11
+  rotate: false
+  xy: 276, 114
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+images/lable4_2
+  rotate: false
+  xy: 434, 224
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+images/lable4_3
+  rotate: false
+  xy: 3, 223
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+images/lable4_4
+  rotate: false
+  xy: 94, 223
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+images/lable4_5
+  rotate: false
+  xy: 185, 114
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+images/lable4_6
+  rotate: false
+  xy: 3, 113
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+images/lable4_7
+  rotate: false
+  xy: 94, 113
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+images/lable4_8
+  rotate: false
+  xy: 185, 4
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+images/lable4_9
+  rotate: false
+  xy: 3, 3
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+images/star
+  rotate: false
+  xy: 276, 15
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1

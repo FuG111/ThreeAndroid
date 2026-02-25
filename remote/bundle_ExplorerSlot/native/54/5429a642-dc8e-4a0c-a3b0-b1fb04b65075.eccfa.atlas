@@ -1,0 +1,62 @@
+
+Jackpot.png
+size: 1065,1065
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trumpet
+  rotate: false
+  xy: 676, 427
+  size: 167, 136
+  orig: 167, 136
+  offset: 0, 0
+  index: -1
+Turntable
+  rotate: false
+  xy: 3, 392
+  size: 670, 670
+  orig: 670, 670
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 701, 190
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: false
+  xy: 676, 566
+  size: 381, 244
+  orig: 381, 244
+  offset: 0, 0
+  index: -1
+jackpotNumber_bg
+  rotate: false
+  xy: 3, 58
+  size: 677, 155
+  orig: 677, 155
+  offset: 0, 0
+  index: -1
+jackpotNumber_bg_shine
+  rotate: false
+  xy: 3, 216
+  size: 695, 173
+  orig: 695, 173
+  offset: 0, 0
+  index: -1
+jackpot_shine
+  rotate: false
+  xy: 676, 813
+  size: 386, 249
+  orig: 386, 249
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 846, 509
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1

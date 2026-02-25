@@ -1,0 +1,27 @@
+
+slot_item_200_3.png
+size: 520,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q
+  rotate: false
+  xy: 194, 20
+  size: 171, 182
+  orig: 181, 190
+  offset: 2, 7
+  index: -1
+Q_1
+  rotate: false
+  xy: 2, 2
+  size: 190, 200
+  orig: 194, 204
+  offset: 0, 4
+  index: -1
+light2
+  rotate: false
+  xy: 367, 2
+  size: 148, 200
+  orig: 154, 200
+  offset: 3, 0
+  index: -1

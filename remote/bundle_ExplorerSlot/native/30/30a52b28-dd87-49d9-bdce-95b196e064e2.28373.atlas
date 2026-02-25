@@ -1,0 +1,181 @@
+
+Element_Key.png
+size: 810,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame
+  rotate: false
+  xy: 2, 129
+  size: 191, 153
+  orig: 191, 153
+  offset: 0, 0
+  index: -1
+keyShine_1
+  rotate: false
+  xy: 734, 177
+  size: 47, 46
+  orig: 151, 130
+  offset: 1, 0
+  index: -1
+keyShine_10
+  rotate: false
+  xy: 673, 73
+  size: 51, 64
+  orig: 151, 130
+  offset: 56, 54
+  index: -1
+keyShine_11
+  rotate: false
+  xy: 604, 2
+  size: 59, 64
+  orig: 151, 130
+  offset: 61, 59
+  index: -1
+keyShine_12
+  rotate: false
+  xy: 604, 68
+  size: 67, 69
+  orig: 151, 130
+  offset: 61, 59
+  index: -1
+keyShine_13
+  rotate: false
+  xy: 174, 56
+  size: 69, 71
+  orig: 151, 130
+  offset: 63, 59
+  index: -1
+keyShine_14
+  rotate: false
+  xy: 99, 56
+  size: 73, 71
+  orig: 151, 130
+  offset: 68, 59
+  index: -1
+keyShine_15
+  rotate: false
+  xy: 245, 59
+  size: 68, 70
+  orig: 151, 130
+  offset: 80, 60
+  index: -1
+keyShine_16
+  rotate: false
+  xy: 315, 59
+  size: 67, 70
+  orig: 151, 130
+  offset: 84, 60
+  index: -1
+keyShine_17
+  rotate: false
+  xy: 384, 70
+  size: 59, 66
+  orig: 151, 130
+  offset: 92, 64
+  index: -1
+keyShine_18
+  rotate: false
+  xy: 2, 5
+  size: 37, 33
+  orig: 151, 130
+  offset: 114, 74
+  index: -1
+keyShine_2
+  rotate: false
+  xy: 99, 2
+  size: 49, 52
+  orig: 151, 130
+  offset: 1, 0
+  index: -1
+keyShine_3
+  rotate: false
+  xy: 734, 225
+  size: 57, 57
+  orig: 151, 130
+  offset: 6, 0
+  index: -1
+keyShine_4
+  rotate: false
+  xy: 665, 2
+  size: 53, 64
+  orig: 151, 130
+  offset: 15, 1
+  index: -1
+keyShine_5
+  rotate: false
+  xy: 726, 75
+  size: 49, 62
+  orig: 151, 130
+  offset: 22, 7
+  index: -1
+keyShine_6
+  rotate: false
+  xy: 720, 8
+  size: 43, 63
+  orig: 151, 130
+  offset: 28, 12
+  index: -1
+keyShine_7
+  rotate: false
+  xy: 765, 11
+  size: 43, 62
+  orig: 151, 130
+  offset: 35, 18
+  index: -1
+keyShine_8
+  rotate: false
+  xy: 54, 42
+  size: 43, 85
+  orig: 151, 130
+  offset: 43, 23
+  index: -1
+keyShine_9
+  rotate: false
+  xy: 2, 40
+  size: 50, 87
+  orig: 151, 130
+  offset: 48, 30
+  index: -1
+key_1
+  rotate: false
+  xy: 451, 6
+  size: 151, 130
+  orig: 151, 130
+  offset: 0, 0
+  index: -1
+key_2
+  rotate: false
+  xy: 195, 131
+  size: 186, 151
+  orig: 186, 151
+  offset: 0, 0
+  index: -1
+key_bg
+  rotate: false
+  xy: 383, 138
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+key_light
+  rotate: false
+  xy: 568, 139
+  size: 164, 143
+  orig: 165, 144
+  offset: 1, 1
+  index: -1
+mask
+  rotate: false
+  xy: 266, 11
+  size: 183, 46
+  orig: 183, 49
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 150, 6
+  size: 114, 48
+  orig: 114, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+Element_Dragon.png
+size: 607,161
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon
+  rotate: false
+  xy: 2, 2
+  size: 225, 157
+  orig: 225, 157
+  offset: 0, 0
+  index: -1
+dragon_bg
+  rotate: false
+  xy: 422, 13
+  size: 183, 146
+  orig: 183, 146
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 229, 7
+  size: 191, 152
+  orig: 191, 152
+  offset: 0, 0
+  index: -1

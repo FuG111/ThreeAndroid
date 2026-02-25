@@ -1,0 +1,118 @@
+
+Element_Cat.png
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bg
+  rotate: true
+  xy: 160, 68
+  size: 183, 147
+  orig: 185, 149
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 422, 65
+  size: 85, 100
+  orig: 88, 104
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 288, 16
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 338, 25
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 432, 8
+  size: 25, 18
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 338, 3
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: true
+  xy: 2, 58
+  size: 193, 156
+  orig: 195, 159
+  offset: 1, 2
+  index: -1
+Head
+  rotate: false
+  xy: 309, 80
+  size: 111, 85
+  orig: 122, 87
+  offset: 4, 1
+  index: -1
+Tail
+  rotate: true
+  xy: 194, 2
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+Words_E
+  rotate: true
+  xy: 385, 3
+  size: 28, 45
+  orig: 30, 47
+  offset: 1, 1
+  index: -1
+Words_E_Light
+  rotate: true
+  xy: 66, 11
+  size: 45, 62
+  orig: 47, 64
+  offset: 1, 1
+  index: -1
+Words_F
+  rotate: true
+  xy: 419, 35
+  size: 28, 45
+  orig: 30, 47
+  offset: 1, 1
+  index: -1
+Words_F_Light
+  rotate: true
+  xy: 130, 11
+  size: 45, 62
+  orig: 47, 64
+  offset: 1, 1
+  index: -1
+Words_R
+  rotate: false
+  xy: 385, 33
+  size: 32, 45
+  orig: 34, 47
+  offset: 1, 1
+  index: -1
+Words_R_Light
+  rotate: true
+  xy: 2, 8
+  size: 48, 62
+  orig: 51, 64
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 309, 167
+  size: 196, 84
+  orig: 196, 84
+  offset: 0, 0
+  index: -1
